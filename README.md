@@ -20,3 +20,21 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 3. Train the model with:
    ```bash
    python train.py
+
+## Contributions
+
+Contributions are highly appreciated to improve this garbage classification project! You can contribute by:
+
+- **Improving the Model**: Experiment with different architectures, optimizers, or regularization techniques.
+- **Enhancing the Dataset**: Add more diverse samples or improve data augmentation techniques.
+- **Adding Features**: Include additional garbage categories or advanced metrics for evaluation.
+- **Optimizing Code**: Refactor for better performance or compatibility.
+- **Documentation**: Help expand or refine the README and inline comments.
+
+### How to Contribute
+1. Fork the repository.
+2. Create a branch for your changes.
+3. Submit a pull request with a detailed description.
+
+We value your contributions!
+
